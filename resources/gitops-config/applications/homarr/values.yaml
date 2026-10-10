@@ -1,6 +1,6 @@
 image:
   repository: ghcr.io/homarr-labs/homarr
-  tag: v1.70.0
+  tag: v1.77.2
   pullPolicy: IfNotPresent
 
 replicaCount: 1
